@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!-- <link rel="icon" href="../public/favicon.ico"> -->
+
+	<title>Auxiliars</title>
+
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <!-- <link rel='stylesheet' href='/stylesheets/menu.css' /> -->
+    <link rel="stylesheet" type="text/css" href="/javascripts/jquery-ui-1.11.4/jquery-ui.css">
+
+    <script src="/javascripts/jquery-2.1.4.min.js"></script>
+    <script src="/javascripts/jquery-ui-1.11.4/jquery-ui.min.js"></script>
+
+    <!-- <script src="/javascripts/layout.js"></script>-->
+</head>
+<body>
+	<div id="contenidor" class="ui-widget">
+
+		<% if (session.user){ %>   
+		
+		<header>
+			<nav>
+				<ul>
+					<!-- <li><a href="/" title="">Inici</a></li> -->
+					<li class="actiu" id="menuPartes" class="active"><a href="/partes">Partes habitacions</a></li>
+					<li class="inactiu" id="menuActivitats"><a href="/activitats">Activitat diaria</a></li>
+					<li class="inactiu" id="menuMaterial"><a href="/material">Material Reutilitzable</a></li>
+					<!-- <li class="inactiu" id="menuLogout"><a href="/logout" title="usuari: <%= session.user.username%>">[Tancar sessio]</a></li> -->
+				</ul>
+
+			</nav>
+
+			<div id="titol">
+				<div id="titolAuxiliars">Auxiliars Infermeria </div>
+				<div id="tancarSessio"><a href="/logout" title="usuari: <%= session.user.username%>">[Tancar sessio]</a></div>
+			</div>
+
+		</header><!-- /header -->
+		<% } %>
+
+		
+		
+
+
+
+
+		<section>
+			<%- body %>
+		</section>
+
+
+
+		<footer>
+			
+		</footer>
+	
+
+	</div>
+</body>
+</html>

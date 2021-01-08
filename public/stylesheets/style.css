@@ -1,0 +1,114 @@
+body{
+	margin: 10px auto;
+	width: 90%;
+  	font: 12px verdana, Arial, serif;
+	color: black;
+	background-color: white;
+}
+
+
+
+
+
+		header{
+			//border: 1px dashed blue;
+			float: left;
+			width: 100%;
+			margin-bottom: 40px;
+		}
+
+		nav{
+			border-bottom: 2px solid #002b72;
+			float: left;
+			width: 65%;
+			margin:0px;
+		}
+
+		nav > ul{
+			margin: 0px;
+			padding: 0px;
+			display: table;
+		}
+
+	
+		ul > li {
+			display: table-cell;
+			list-style-type: none;
+			text-align: center;
+			vertical-align: middle;
+			width: 200px;
+	    	height: 40px;
+			background-size: 100% 110%;
+			background-repeat: no-repeat;
+    	}			
+		
+		/*ul > li {*/
+		.inactiu{
+			background-image: url(/images/tabInactiu.png);
+    	}			
+		
+		.actiu{
+			background-image: url(/images/tabActiu.png);
+			font-weight: bold;
+    	}			
+		
+
+
+		li a {
+			color:white;
+			text-decoration: none;
+		}
+
+		#titol{
+			float: right;
+			font-family: "verdana serif arial";
+		}
+
+		#titolAuxiliars{
+			text-align: right;
+			font-weight: bold;
+			font-size: 1.5em;
+		}
+
+		#tancarSessio{
+			text-align: right;
+		}
+
+
+/* ------------------------------------ */
+
+section{
+	float: none;
+}
+
+
+
+
+
+table{
+	border-collapse: collapse;
+	border: 0;
+}
+
+caption{
+	text-align: left;
+}
+
+td, th{
+	border: 1px grey solid;
+	color: #3a3a3a;
+}
+
+th{
+	background-color: #4d3319;
+	color: white;
+}
+
+tr:nth-child(even){
+	background-color: #ecd9c6;
+}
+
+tr:nth-child(odd){
+	background-color: #f9f2ec;
+}
+

@@ -1,0 +1,125 @@
+
+<!-- javascripts propis de la pagina-->
+<script src="/javascripts/partes.js"></script>
+
+
+<!-- estils propis de la pagina-->
+<link rel='stylesheet' href='/stylesheets/partes.css' />
+
+
+<!--Formulari per buscar Data-servei-torn -->
+
+
+<table id="taulaBuscar">
+<caption></caption>
+<thead>
+  <tr>
+    <th>Data</th>
+    <th>UH</th>
+    <th>Torn</th>
+    <th></th>
+  </tr>
+</thead>
+  <tbody>
+    <tr>
+      <form id="formulariBuscar" autocomplete="off">     <!-- action="/activitatRMN/afegir" method="post" -->
+      <td><input type="text" id="seleccioData"></td>
+      <td>
+        <select id="uh">      
+          <option value=""></option>
+          <option value="UH1">UH1</option>
+          <option value="UH2">UH2</option>
+          <option value="UH3">UH3</option>
+          <option value="UH4">UH4</option>
+        </select>
+      </td>
+      <td>
+        <select id="torn">     
+          <option value=""></option>
+          <option value="Mati">Mati</option>
+          <option value="Tarda">Tarda</option>
+          <option value="Nit">Nit</option>
+        </select>
+      </td>
+      <td>
+        <button id="botoBuscarServei">Buscar</button>
+      </td>
+      </form>
+    </tr>
+  </tbody>
+</table> 
+
+
+
+
+
+<div id="DataServeiTorn">
+
+  
+
+
+  <div id="capsalera">
+    
+    <label>Data:</label><div id="infoData"></div>
+    <label>Servei:</label><div id="infoServei"></div>
+    <label>Torn:</label><div id="infoTorn"></div>
+    <button id="botoCanviDataUHTorn">Tornar</button>
+  </div>
+
+  <div id="capsaleraAuxiliar">
+    <label>Auxiliar:</label> <input type="text" id="auxiliar">
+    <button id="botoGuardarAuxiliar">guardar auxiliar</button><span id="estatGuardarAuxiliar">auxiliar guardada</span>
+  </div>
+
+
+
+  <!-- taula per afegir no va linea a la taula dels registres dels partes -->
+  <table id="taula_afegirNovaLinea" class="body_taula">
+  <caption>
+    <!-- formulari per canviar el dia -->
+  </caption>
+  <thead>
+    <tr>
+      <th>Hab</th>
+      <th>Parte</th>
+      <th></th>
+    <tr>
+      <form id="formulariAfegirLinea" autocomplete="off">
+      <td><input type="text" id="hab"></td>
+      <td><input type="text" id="parte"></td>
+      <td><button id="botoAfegirNovaLinea">afegir linea</button></td>
+    </tr>
+  </thead>
+    <tbody>
+    </tbody>
+  </table>
+
+
+
+
+
+
+  <table id="taula_registresPartes" class="body_taula">
+  <caption>
+    <!-- formulari per canviar el dia -->
+  </caption>
+
+  <thead>
+    <tr>
+      <th>Hab</th>
+      <th>Parte</th>
+      <th></th>
+    </tr>
+  </thead>
+    <tbody>
+    </tbody>
+  </table>
+
+  <br/>
+
+  <div class="dadesEnLinea">
+    <label>Registres: </label><span id="registres"></span>
+  </div>
+
+
+</div>

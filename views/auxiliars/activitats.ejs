@@ -1,0 +1,88 @@
+<!-- javascripts propis de la pagina-->
+<script src="/javascripts/activitats.js"></script>
+
+
+<!-- estils propis de la pagina-->
+<link rel='stylesheet' href='/stylesheets/activitats.css' />
+
+
+<!--Formulari per introduir registre -->
+
+  <table id="taula_afegirNovaActivitat" class="body_taula">
+  <caption>
+    <!-- formulari per canviar el dia -->
+  </caption>
+  <thead>
+    <tr>
+      <th>Data</th>
+      <th>UH</th>
+      <th>Torn</th>
+      <th>Auxiliar</th>
+      <th>Carro</th>
+      <th>Banyeres</th>
+      <th>Office</th>
+      <th>M.Farm.</th>
+      <th>Z.Tèc.</th>
+      <th>Observacions</th>
+      <th></th>
+    </tr>
+  </thead>
+    <tbody>
+	    <tr>
+	      <form id="formulariAfegirActivitat" autocomplete="off">
+	      <td><input type="text" id="seleccioData"></td>
+	      <td>
+	        <select id="uh">      
+	          <option value=""></option>
+	          <option value="UH1">UH1</option>
+	          <option value="UH2">UH2</option>
+	          <option value="UH3">UH3</option>
+	          <option value="UH4">UH4</option>
+	        </select>
+	      </td>
+	      <td>
+	        <select id="torn">     
+	          <option value=""></option>
+	          <option value="Mati">Mati</option>
+	          <option value="Tarda">Tarda</option>
+	          <option value="Nit">Nit</option>
+	        </select>
+	      </td>
+	      <td><input type="text" id="auxiliar"></td>
+	      <td><input type="checkbox" id="carros"></td>
+	      <td><input type="checkbox" id="banyeres"></td>
+	      <td><input type="checkbox" id="office"></td>
+	      <td><input type="checkbox" id="mfarmacia"></td>
+	      <td><input type="checkbox" id="ztecnica"></td>
+	      <td><input type="text" 	 id="observacions"></td>
+
+	      <td><button id="botoAfegirNovaActivitat">afegir linea</button></td>
+	      </form>
+	    </tr>
+    </tbody>
+  </table>
+
+  <br/><br/><br/>
+
+  <table id="taula_llistaActivitats" class="body_taula">
+  <caption>
+    <!-- formulari per canviar el dia -->
+  </caption>
+  <thead>
+    <tr>
+      <th>Data</th>
+      <th>UH</th>
+      <th>Torn</th>
+      <th>Auxiliar</th>
+      <th>Carro</th>
+      <th>Banyeres</th>
+      <th>Office</th>
+      <th>M.Farm.</th>
+      <th>Z.Tèc.</th>
+      <th>Observacions</th>
+      <th></th>
+    </tr>
+  </thead>
+    <tbody>
+    </tbody>
+  </table>

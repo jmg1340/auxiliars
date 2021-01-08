@@ -1,0 +1,9 @@
+#contenidorLogin{
+	margin: 200px auto;
+	width: 40%;
+	text-align: center;
+}
+
+#contenidorLogin label{
+	margin-right: 10px;
+}

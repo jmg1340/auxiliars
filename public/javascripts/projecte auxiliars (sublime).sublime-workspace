@@ -1,0 +1,962 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nump",
+				"numPortSwCoincident"
+			],
+			[
+				"port",
+				"portSwTrobat"
+			],
+			[
+				"nom",
+				"nomSwTrobat"
+			],
+			[
+				"roseta",
+				"roseta2"
+			],
+			[
+				"arr",
+				"arrayElementsLlista"
+			],
+			[
+				"rack",
+				"rackActiu"
+			],
+			[
+				"matriu",
+				"matriuObjectesDescripcions"
+			],
+			[
+				"MATRI",
+				"matriuObjectesDescripcions"
+			],
+			[
+				"pP",
+				"pPDPintat"
+			],
+			[
+				"arra",
+				"arrayDescripcions"
+			],
+			[
+				"co",
+				"coordenadaY"
+			],
+			[
+				"coord",
+				"coordenadaY"
+			],
+			[
+				"cord",
+				"coordenadaX"
+			],
+			[
+				"myDro",
+				"myDropdown1"
+			],
+			[
+				"boto",
+				"botoGuardarAuxiliar"
+			],
+			[
+				"auxil",
+				"auxiliar2"
+			],
+			[
+				"idS",
+				"idServei2"
+			],
+			[
+				"id",
+				"idServei"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"dd",
+				"dd-mm-aaaa"
+			],
+			[
+				"aux",
+				"auxControllerPartes"
+			],
+			[
+				"codi",
+				"codiServei"
+			],
+			[
+				"data",
+				"dataAAAAMMDD"
+			],
+			[
+				"bl",
+				"inline-block"
+			],
+			[
+				"_mat",
+				"_matriuPachPanels"
+			],
+			[
+				"_amplada",
+				"_ampladaPorts"
+			],
+			[
+				"posicio",
+				"posicioYPort"
+			],
+			[
+				"panel",
+				"_panelPort"
+			],
+			[
+				"posici",
+				"posicioPachPanel"
+			],
+			[
+				"cor",
+				"coordenadesPorts"
+			],
+			[
+				"coo",
+				"coord_x"
+			],
+			[
+				"sm",
+				"sumatoriAmpladaPorts"
+			],
+			[
+				"ampla",
+				"ampladaPorts"
+			],
+			[
+				"am",
+				"ampladaPorts"
+			],
+			[
+				"_po",
+				"_posicioInicial"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"load_",
+				"load_album_list"
+			],
+			[
+				"o",
+				"only_dirs"
+			],
+			[
+				"al",
+				"album_name"
+			],
+			[
+				"formulari",
+				"formulariExamens"
+			],
+			[
+				"fotn",
+				"font-family"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"sele",
+				"seleccioData1"
+			],
+			[
+				"z",
+				"zErrores"
+			],
+			[
+				"auto",
+				"autocompletarNom"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"dat",
+				"data_a_DDMMYYY"
+			],
+			[
+				"ob",
+				"objFORM"
+			],
+			[
+				"dades",
+				"dadesFormulari"
+			],
+			[
+				"existeix",
+				"existeixAlgunCriteri"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"empresa",
+				"empresa"
+			],
+			[
+				"get",
+				"getMonth"
+			],
+			[
+				"tbl",
+				"tblESPersonal"
+			],
+			[
+				"T",
+				"TblPersonal"
+			],
+			[
+				"gari",
+				"garitaController"
+			],
+			[
+				"persoal",
+				"personalId"
+			],
+			[
+				"me",
+				"methodOverride"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"obj",
+				"objPersonal"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"inn",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"L",
+				"LABEL	Tag"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"vi",
+				"vIdForat2"
+			],
+			[
+				"vgI",
+				"vgIdCamp"
+			],
+			[
+				"columna",
+				"columnaCop"
+			],
+			[
+				"class",
+				"classTD"
+			],
+			[
+				"vgId",
+				"vgIdPartida"
+			],
+			[
+				"vg",
+				"vgIdPartida"
+			],
+			[
+				"vgsu",
+				"vgSumaForats"
+			],
+			[
+				"vId",
+				"vIdCamp"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"border-lef",
+				"border-left-width"
+			],
+			[
+				"column",
+				"columnaPar"
+			],
+			[
+				"result",
+				"resultVal"
+			],
+			[
+				"cC",
+				"cCops"
+			],
+			[
+				"mostrar",
+				"mostrarCamps"
+			],
+			[
+				"t",
+				"tfoot"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"con",
+				"conceptesAbreviar"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"border-co",
+				"border-collapse"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"exis",
+				"exists"
+			],
+			[
+				"exist",
+				"exists"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"comptadorT",
+				"comptadorTreballades"
+			],
+			[
+				"comptador",
+				"comptadorObertes"
+			],
+			[
+				"comptad",
+				"comptadorTancades"
+			],
+			[
+				"tim",
+				"timeStamp"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"regis",
+				"registreAfegit"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"reg",
+				"regAfegit"
+			],
+			[
+				"afegir",
+				"afegirRegistre"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"tx",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "partes.js",
+			"settings":
+			{
+				"buffer_size": 11282,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"Snippet: htm",
+				"Snippet: html"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"s",
+				"Set Syntax: HTML"
+			],
+			[
+				"S",
+				"Set Syntax: HTML"
+			],
+			[
+				"se",
+				"Set Syntax: HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"SET	",
+				"Set Syntax: HTML"
+			],
+			[
+				"set	",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax: h	",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/P/Datos/9A/AS0885/Racks/dadesRacks.js",
+		"/P/Datos/9A/AS0885/Racks/switch.js",
+		"/P/Datos/9A/AS0885/Racks/RACKS.html",
+		"/P/Datos/9A/AS0885/Racks/pachPanel.js",
+		"/P/Datos/9A/AS0885/Racks/RACKS.css",
+		"/P/Datos/9A/AS0885/Racks/RACKS_menu.css",
+		"/P/Datos/9A/AS0885/Racks/dadesConexions.js",
+		"/P/Datos/9A/AS0885/Racks/rack.js",
+		"/P/Datos/9A/AS0885/Racks/RACKS.js",
+		"/P/Datos/9A/AS0885/Racks/zProva.css",
+		"/P/Datos/9A/AS0885/Racks/zProva.js",
+		"/P/Datos/9A/AS0885/Racks/zProva.html",
+		"/P/Datos/9A/AS0885/Racks/RACKS_menu.js",
+		"//192.168.11.219/projectes/auxiliars/public/stylesheets/partes.css",
+		"//192.168.11.219/projectes/auxiliars/public/javascripts/partes.js",
+		"//192.168.11.219/projectes/auxiliars/views/auxiliars/partes.ejs",
+		"//192.168.11.219/projectes/auxiliars/routes/index.js",
+		"//192.168.11.219/projectes/auxiliars/public/stylesheets/style.css",
+		"//192.168.11.219/projectes/auxiliars/controllers/aux_controller_partes.js",
+		"//192.168.11.219/projectes/auxiliars/models/models.js",
+		"//192.168.11.219/projectes/auxiliars/public/stylesheets/menu.css",
+		"/P/Datos/9A/AS0885/Racks/prova.html",
+		"//192.168.11.219/projectes/auxiliars/controllers/utils.js",
+		"//192.168.11.219/projectes/garita/controllers/garita_controller.js",
+		"//192.168.11.219/projectes/rdl_rmn/app.js",
+		"//192.168.11.219/projectes/rdl_rmn/routes/index.js",
+		"//192.168.11.219/projectes/rdl_rmn/node_modules/sequelize/node_modules/lodash/_stackSet.js",
+		"//192.168.11.219/projectes/rdl_rmn/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/Cakefile",
+		"//192.168.11.219/projectes/rdl_rmn/controllers/rmn_controller_activitat.js",
+		"//192.168.11.219/projectes/rdl_rmn/controllers/rmn_controller_resultats.js",
+		"//192.168.11.219/projectes/rdl_rmn/controllers/rmn_controller_proves.js",
+		"//192.168.11.219/projectes/auxiliars/models/tblServeis.js",
+		"//192.168.11.219/projectes/auxiliars/models/tblPartes.js",
+		"//192.168.11.219/projectes/instruccions.txt",
+		"//192.168.11.219/projectes/auxiliars/controllers/Utils.js",
+		"//192.168.11.219/projectes/auxiliars/app.js",
+		"//192.168.11.219/projectes/auxiliars/views/layout.ejs",
+		"//192.168.11.219/projectes/auxiliars/controllers/session_controller.js",
+		"//192.168.11.219/projectes/auxiliars/views/login.ejs",
+		"//192.168.11.219/projectes/aux_partes/controllers/rmn_controller_partes.js",
+		"//192.168.11.219/projectes/aux_partes/routes/index.js",
+		"//192.168.11.219/projectes/aux_partes/package.json",
+		"//192.168.11.219/projectes/aux_partes/npm-debug.log",
+		"//192.168.11.219/projectes/aux_partes/views/layout.ejs",
+		"//192.168.11.219/projectes/aux_partes/views/login.ejs",
+		"//192.168.11.219/projectes/aux_partes/controllers/user_controller.js",
+		"//192.168.11.219/projectes/aux_partes/bin/www",
+		"//192.168.11.219/projectes/aux_partes/views/AHY9U3~9/servei.ejs",
+		"//192.168.11.219/projectes/aux_partes/views/rmn/activitat.ejs",
+		"//192.168.11.219/projectes/aux_partes/controllers/rmn_controller_serveis.js",
+		"//192.168.11.219/projectes/aux_partes/controllers/session_controller.js",
+		"//192.168.11.219/projectes/aux_partes/public/javascripts/login.js",
+		"//192.168.11.219/projectes/aux_partes/models/tblPartes.js",
+		"//192.168.11.219/projectes/aux_partes/models/models.js",
+		"//192.168.11.219/projectes/aux_partes/models/crearBddPartesAuxiliars.sql",
+		"//192.168.11.219/projectes/aux_partes/models/tblServeis.js",
+		"//192.168.11.219/projectes/aux_partes/bin/www - original",
+		"/U/Apps.html",
+		"/U/Projectes/Javascript/racks/dadesRacks.js",
+		"/U/Projectes/Javascript/racks/pachPanel.js",
+		"/U/Projectes/Javascript/racks/prova.js",
+		"/U/Projectes/Javascript/racks/switch.js",
+		"/U/Mis_documentos/Servidors usuaris pwds.csv",
+		"/U/Projectes/Javascript/racks/dadesRacks - exmeple.js",
+		"/D/PROJECTES/svg/prova.js",
+		"/D/PROJECTES/svg/pachPanel.js",
+		"/D/PROJECTES/svg/switch.js",
+		"/D/PROJECTES/svg/rack.js",
+		"/D/PROJECTES/svg/dadesRacks.js",
+		"/D/PROJECTES/svg/prova.html",
+		"/D/PROJECTES/svg/dadesSwitchs.js",
+		"//192.168.11.219/rdl_rmn/controllers/rmn_controller_resultats.js",
+		"//192.168.11.219/rdl_rmn/models/models.js",
+		"//192.168.11.219/rdl_rmn/public/stylesheets/resultats.css",
+		"//192.168.11.219/rdl_rmn/views/rmn/resultats.ejs",
+		"//192.168.11.219/rdl_rmn/public/javascripts/resultats.js",
+		"//192.168.11.219/rdl_rmn/controllers/rmn_controller_activitat.js",
+		"//192.168.11.219/rdl_rmn/public/javascripts/activitat.js",
+		"//192.168.11.219/rdl_rmn/views/rmn/activitat.ejs",
+		"//192.168.11.219/rdl_rmn/views/layout.ejs",
+		"//192.168.11.219/rdl_rmn/routes/index.js",
+		"//192.168.11.219/rdl_rmn/public/stylesheets/activitat.css",
+		"//192.168.11.219/rdl_rmn/controllers/session_controller.js",
+		"//192.168.11.219/rdl_rmn/public/javascripts/activitatRMN.js",
+		"//192.168.11.219/rdl_rmn/views/rmn/activitatRMN.ejs",
+		"//192.168.11.219/rdl_rmn/models/crearBddRMN.sql",
+		"//192.168.11.219/rdl_rmn/models/tblActivitat.js",
+		"//192.168.11.219/rdl_rmn/public/javascripts/proves.js",
+		"//192.168.11.219/rdl_rmn/public/javascripts/tecnics.js",
+		"//192.168.11.219/rdl_rmn/public/stylesheets/menu.css",
+		"//192.168.11.219/rdl_rmn/public/stylesheets/style.css",
+		"//192.168.11.219/rdl_rmn/public/stylesheets/proves.css",
+		"//192.168.11.219/rdl_rmn/public/stylesheets/tecnics.css",
+		"//192.168.11.219/rdl_rmn/bin/www",
+		"//192.168.11.219/rdl_rmn/app.js",
+		"//192.168.11.219/rdl_rmn/public/javascripts/layout.js",
+		"//192.168.11.219/rdl_rmn/public/javascripts/login.js",
+		"//192.168.11.219/rdl_rmn/album.js",
+		"//192.168.11.219/rdl_rmn/jsonServer.js",
+		"//192.168.11.219/rdl_rmn/albums/info.txt",
+		"//192.168.11.219/rdl_rmn/settimeout.js",
+		"//192.168.11.219/rdl_rmn/fs1.js",
+		"//192.168.11.219/rdl_rmn/fs2.js",
+		"/D/HTML5/Proves/AJAX/Full01.js",
+		"/D/HTML5/Proves/AJAX/Full01.html",
+		"/D/HTML5/Proves/AJAX/Estils.css",
+		"/U/Projectes/Javascript/Inventari/DragAndDrop.html",
+		"/U/Projectes/Javascript/Inventari/ExeFireFox.html",
+		"/D/CCNA 01/Web/index.html",
+		"/D/CCNA 01/Web/examens.js",
+		"/D/CCNA 01/Web/examens_json/mod1_03.json",
+		"/D/CCNA 01/Web/examens_json/mod1_04.json",
+		"/D/CCNA 01/Web/index.css",
+		"/D/CCNA 01/Web/index.js",
+		"/D/CCNA 01/Web/examens_json/mod1_01.json",
+		"/D/CCNA 01/Web/examens/examens.js",
+		"/D/CCNA 01/Web/examens/examens.css",
+		"/D/CCNA 01/Web/examens/examens.html",
+		"/D/CCNA 01/Web/examens/mod1_01.json",
+		"/D/CCNA 01/Web/examens/mod1_01.js",
+		"/D/CCNA 01/Web/bits.js",
+		"/D/CCNA 01/Web/comandaments.css",
+		"/D/CCNA 01/Web/comandaments.js",
+		"/D/CCNA 01/Web/comandaments.html",
+		"/D/CCNA 01/Web/style.css",
+		"/D/CCNA 01/Web/comandamentsDades.js",
+		"/D/CCNA 01/Web/comandaments.json",
+		"//192.168.11.219/garita/bin/www"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"\\\\192.168.11.219\\garita\\node_modules",
+			"C:\\wamp\\www\\WPressActivitats\\wp-content",
+			"C:\\wamp\\www\\WPressActivitats\\wp-content\\themes\\twentythirteen"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"stringB",
+			"stringA",
+			"boca",
+			"tboca",
+			"-1B",
+			"-1b",
+			"llistaOrdenada",
+			"port_PanelDescripcio2",
+			"port_PanelDescripcio",
+			"pPDPintat",
+			"arrayElementsLlista",
+			"perc",
+			"connectatA",
+			"switchport",
+			"matriuObjectesDescripcions",
+			"llistat",
+			"console",
+			"pPDPintat.attr(\"background-color\"",
+			"pPD",
+			"posicioRack",
+			"posicioDiv",
+			"Panel",
+			"Port",
+			"i",
+			"myDropdown2",
+			"myDropdown1",
+			"prova",
+			"project",
+			"oActivitat",
+			"idNouRegistre",
+			"dadesProves",
+			"rows[i]",
+			"oDadesServei",
+			"dades",
+			"val",
+			");\n",
+			"oDadesActivitat",
+			"3a3a3a",
+			"tecnics",
+			"Tecnics",
+			"registresPartes",
+			"th",
+			"taulaCapsaleraParte",
+			"000",
+			"1000",
+			"LLibre",
+			"taulaAfegirRegistreActivitat",
+			"rmnControllerActivitat",
+			"Tecnics",
+			"Activitat",
+			"Tecnics",
+			"Activitat",
+			"TblActivitat",
+			"prova",
+			"proces",
+			"pacient",
+			"procedencia",
+			";",
+			"V139-30",
+			"node",
+			"pPort",
+			"pPchp",
+			"port_Panel",
+			"panelPorts",
+			"port_Panel",
+			"pPchp",
+			"i",
+			"ackActiu.switchPorts",
+			"matriuSw",
+			"matriuSW",
+			"_matriuPorts",
+			"i",
+			"_posicio",
+			"posicioInicial",
+			"_posicio",
+			"coordPachPanel",
+			"posicioPachPanel",
+			"_altura",
+			"=",
+			"posicioY",
+			"posicioX",
+			"_posicio",
+			"posicio",
+			"_posicio",
+			"posicio",
+			"posicioRackXY",
+			"_CoordPosicionsRack",
+			"_posicionsRack",
+			"posicio",
+			"}),",
+			"roseta",
+			"port: \"",
+			"Port:",
+			"port:",
+			"Port:",
+			"port:",
+			"Port:",
+			"port:",
+			"Port:",
+			"port:",
+			"Port:",
+			"port:",
+			"Port:",
+			"port:",
+			"Port:",
+			"port:",
+			"Port:",
+			"port:",
+			"Port:",
+			"port:",
+			"Port:",
+			"port:",
+			"Port:",
+			"port:",
+			"portPanel",
+			"_matriuPorts",
+			"sw:",
+			"sw",
+			"Sw",
+			"Edifici 1",
+			"edifici",
+			"edific:",
+			"		var switchsSeleccionats2 = seleccionarSwitchs(Edifici, Planta);\n		mostrarSwitchs(switchsSeleccionats2);\n",
+			"racks",
+			"switchs",
+			"swSelec",
+			"blue",
+			"SEG"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$",
+			"jQuery",
+			"$",
+			"jQuery"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "partes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "projecte auxiliars (sublime).sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

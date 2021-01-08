@@ -1,0 +1,186 @@
+
+/*  colors icones jquery ui */
+
+.ui-icon.red { background-image: url(../javascripts/jquery-ui-1.11.4/images/ui-icons_8c291d_256x240.png); }
+.ui-icon.green { background-image: url(../javascripts/jquery-ui-1.11.4/images/ui-icons-green.png); }
+
+.ui-dialog{
+	background-color: #d9d9d9 !important;;
+}
+
+
+
+#DataServeiTorn{
+	float: left;
+	/*border: 1px solid red;*/
+}
+
+
+
+
+
+/* TAULA introduccio registre activitat*/
+
+#taulaBuscar{
+	table-layout: fixed;
+  	margin: 50px auto;
+  	width: 25%;
+}
+
+#taulaBuscar th:nth-child(1){   /* data */
+	width: 5%;
+}
+
+#taulaBuscar th:nth-child(2) {	/* UH */
+	width: 4%;
+}
+
+#taulaBuscar th:nth-child(3) {	/* Torn */
+	width: 5%;
+}
+
+
+#taulaBuscar th:last-child {   	/* boto validar*/
+	width: 5%;
+	border: 0;
+	background-color: white;
+	
+}
+
+#taulaBuscar td:last-child {   	/* boto validar*/
+	text-align: center;
+	border: 0;
+	background-color: white;
+	
+
+}
+
+
+#taulaBuscar input, select{
+	/*width: 95%;*/
+	background-color: #e1eefe;
+	width: 95%;
+}
+
+
+/*----------------------------------------------------------*/
+
+
+
+
+#capsalera{
+	/*margin: 0 auto;*/
+
+	float: left;
+	
+	padding: 5px;
+	/*border: 1px dashed black;*/
+	/*background-color: #ffeecc;*/
+	font-size: 15px;
+} 
+
+#capsalera label, #capsalera div{
+	display: inline;
+}
+
+#capsalera label{
+	margin-right: 5px;
+}
+
+#capsalera div{
+	margin-right: 25px;
+}
+
+
+
+#capsaleraAuxiliar{
+	/*margin: 0 auto;*/
+	margin-bottom: 40px;
+	width: 31%;
+	float: right;
+	
+	text-align: left;
+	
+	padding: 5px;
+	border: 1px dashed black;
+	background-color: #ffeecc;
+	font-size: 15px;
+} 
+
+
+#estatGuardarAuxiliar{
+	text-align: center;
+	background-color: #66ff33;
+	color: blue;
+	font-weight: normal;
+}
+
+
+
+#taula_afegirNovaLinea{
+	margin-left: 0%;
+	margin-top: 20px;
+	width: 95%;
+	table-layout: fixed;	
+}
+
+#taula_afegirNovaLinea input, select{
+	/*width: 95%;*/
+	background-color: #e1eefe;
+	width: 98%;
+}
+
+
+
+#taula_afegirNovaLinea th:first-child {   	/* habitacio */
+	width: 5%;
+	text-align: center;
+}
+
+#taula_afegirNovaLinea th:nth-child(2) {	/* parte */
+	width: 86%;
+}
+
+
+#taula_afegirNovaLinea th:last-child {   	/* boto afegir linea */
+	width: 10%;
+	text-align: center;
+	background-color: white;
+	border-color: transparent;
+}
+
+#taula_afegirNovaLinea td:last-child {   	/* boto afegir linea */
+	text-align: center;
+	background-color: white;
+	border-color: transparent;
+}
+
+
+
+
+
+
+
+
+
+#taula_registresPartes{
+	margin-left: 0%;
+	margin-top: 20px;
+	width: 95%;
+	table-layout: fixed;
+}
+
+#taula_registresPartes th:first-child {   	/* habitacio */
+	width: 5%;
+	text-align: center;
+}
+
+#taula_registresPartes th:nth-child(2) {	/* parte */
+	width: 92%;
+}
+
+
+#taula_registresPartes td:last-child {   	/* boto eliminar */
+	width: 5%;
+	text-align: center;
+}

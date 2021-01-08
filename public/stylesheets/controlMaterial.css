@@ -1,0 +1,230 @@
+
+/*  colors icones jquery ui */
+
+.ui-icon.red { background-image: url(../javascripts/jquery-ui-1.11.4/images/ui-icons_8c291d_256x240.png); }
+.ui-icon.green { background-image: url(../javascripts/jquery-ui-1.11.4/images/ui-icons-green.png); }
+
+.ui-dialog{
+	background-color: #d9d9d9 !important;;
+}
+
+/* TAULA introduccio registre activitat*/
+
+#taulaBuscar{
+	table-layout: fixed;
+  	margin: 50px auto;
+  	width: 25%;
+}
+
+#taulaBuscar th:nth-child(1){   /* data */
+	width: 5%;
+}
+
+#taulaBuscar th:nth-child(2) {	/* UH */
+	width: 4%;
+}
+
+#taulaBuscar th:nth-child(3) {	/* Torn */
+	width: 5%;
+}
+
+
+#taulaBuscar th:last-child {   	/* boto validar*/
+	width: 5%;
+	border: 0;
+	background-color: white;
+	
+}
+
+#taulaBuscar td:last-child {   	/* boto validar*/
+	text-align: center;
+	border: 0;
+	background-color: white;
+	
+
+}
+
+
+#taulaBuscar input, select{
+	/*width: 95%;*/
+	background-color: #ffbaba;
+	width: 95%;
+}
+
+
+
+
+
+#botoCanviDataUHTorn{
+	/*! display: block; */
+}
+
+
+#capsalera{
+	/*margin: 0 auto;*/
+
+	float: left;
+	
+	padding: 5px;
+	/*border: 1px dashed black;*/
+	/*background-color: #ffeecc;*/
+	font-size: 15px;
+} 
+
+#capsalera label, #capsalera div{
+	display: inline;
+}
+
+#capsalera label{
+	margin-right: 5px;
+}
+
+#capsalera div{
+	margin-right: 25px;
+}
+
+
+
+#capsaleraAuxiliar{
+	/*margin: 0 auto;*/
+	margin-bottom: 40px;
+	/*! width: 42%; */
+	float: right;
+	
+	text-align: right;
+	
+	padding: 5px;
+	border: 1px dashed black;
+	background-color: #ffeecc;
+	font-size: 15px;
+} 
+
+
+#estatGuardarDades{
+	display: none;
+	background-color: #66ff33;
+	color: black;
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+#taula_material{
+	margin-left: 0%;
+	margin-top: 20px;
+	width: 95%;
+	table-layout: fixed;
+}
+
+#taula_material th:first-child {   	/* ordre */
+	width: 3%;
+	text-align: center;
+}
+
+#taula_material th:nth-child(2) {	/* material */
+	width: 15%;
+}
+
+#taula_material th:nth-child(3) {	/* stock */
+	width: 5%;
+}
+
+#taula_material th:nth-child(4) {	/* Esteril */
+	width: 5%;
+}
+
+#taula_material th:nth-child(5) {	/* No Esteril */
+	width: 7%;
+}
+
+#taula_material th:nth-child(6) {	/* Solicitat */
+	width: 7%;
+}
+
+#taula_material th:nth-child(7) {	/* Rebut Est */
+	width: 7%;
+}
+
+#taula_material th:nth-child(8) {	/* Entregat Est */
+	width: 9%;
+}
+
+
+#taula_material td:last-child {   	/* Observacions */
+	text-align: left;
+}
+
+
+
+
+
+
+
+#taula_material td:first-child {   	/* ordre */
+	text-align: center;
+	color: goldenrod;
+}
+
+#taula_material td:nth-child(2) {	/* material */
+	font-weight: bold
+}
+
+
+#taula_material td:nth-child(3) {	/* stock */
+	text-align: center;
+}
+
+#taula_material td:nth-child(3) input{	/* stock inputs */
+	text-align: center;
+	width: 85%;
+	margin: 3px;
+}
+
+#taula_material td:nth-child(4) input{	/* Esteril */
+	text-align: center;
+	width: 85%;
+	margin: 3px;
+}
+
+#taula_material td:nth-child(5) input{	/* No Esteril */
+	text-align: center;
+	width: 85%;
+	margin: 3px;
+}
+
+#taula_material td:nth-child(6) input{	/* Solicitat */
+	text-align: center;
+	background-color: lightgoldenrodyellow;
+	width: 85%;
+	margin: 3px;
+}
+
+#taula_material td:nth-child(7) input{	/* Rebut */
+	text-align: center;
+	background-color: lightgreen;
+	width: 85%;
+	margin: 3px;
+}
+
+#taula_material td:nth-child(8) input{	/* Entregat */
+	text-align: center;
+	background-color: lightgreen;
+	width: 85%;
+	margin: 3px;
+}
+
+#taula_material td:nth-child(9) input{	/* Entregat */
+	width: 97%;
+	margin: 3px;
+}
+
+
+
+
+

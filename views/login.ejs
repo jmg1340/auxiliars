@@ -1,0 +1,29 @@
+
+
+<!-- javascripts propis de la pagina-->
+<script src="/javascripts/login.js"></script>
+
+
+<!-- estils propis de la pagina-->
+<link rel='stylesheet' href='/stylesheets/login.css' />
+
+
+
+
+<div id="contenidorLogin">
+	<h1>Auxiliars d'infermeria</h1>
+	<div id="login">
+		<form id="formlogin" method="POST" action="/login">
+			<label>Contrassenya:</label><input type="password" name="pass" id="pwd" value="aux"/>
+			<!-- <button id="botoLogin">Entrar</button> -->
+			<input type="submit" value="entrar"  />
+		</form>
+</div>
+
+
+<% if (error){ %>
+		<div id="MissatgeError">
+			<span> <%= error %></span>
+		</div>
+<% } %>
+

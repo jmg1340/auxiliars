@@ -1,0 +1,105 @@
+<!-- javascripts propis de la pagina-->
+<script src="/javascripts/controlMaterial.js"></script>
+<script src="/javascripts/material.js"></script>
+
+
+<!-- estils propis de la pagina-->
+<link rel='stylesheet' href='/stylesheets/controlMaterial.css' />
+
+
+<!--Formulari per buscar Data-servei-torn -->
+
+<table id="taulaBuscar">
+<caption></caption>
+<thead>
+  <tr>
+    <th>Data</th>
+    <th>UH</th>
+    <th>Torn</th>
+    <th></th>
+  </tr>
+</thead>
+  <tbody>
+    <tr>
+      <form id="formulariBuscar" autocomplete="off">     <!-- action="/activitatRMN/afegir" method="post" -->
+      <td><input type="text" id="seleccioData"></td>
+      <td>
+        <select id="uh">      
+          <option value=""></option>
+          <option value="UH1">UH1</option>
+          <option value="UH2">UH2</option>
+          <option value="UH3">UH3</option>
+          <option value="UH4">UH4</option>
+        </select>
+      </td>
+      <td>
+        <select id="torn">     
+          <option value=""></option>
+          <option value="Mati">Mati</option>
+          <option value="Tarda">Tarda</option>
+          <option value="Nit">Nit</option>
+        </select>
+      </td>
+      <td>
+        <button id="botoBuscarServei">Buscar</button>
+      </td>
+      </form>
+    </tr>
+  </tbody>
+</table> 
+
+
+
+
+
+<div id="DataServeiTorn">
+
+  
+
+  <div id="capsalera">
+    <label>Data:</label><div id="infoData"></div>
+    <label>Servei:</label><div id="infoServei"></div>
+    <label>Torn:</label><div id="infoTorn"></div>
+    <button id="botoCanviDataUHTorn">Tornar</button>
+
+  </div>
+
+  <div id="capsaleraAuxiliar">
+    <div class="personal"><label>Personal Auxiliar:</label> <input type="text" id="persAuxiliar"></div>
+    <div class="personal"><label>Personal Esterilització:</label> <input type="text" id="persEsteri"></div>
+    <!-- <br/>    
+    <button id="botoGuardarAuxiliar">guardar personal</button><div id="estatGuardarAuxiliar">auxiliar guardada</div> -->
+  </div>
+
+
+
+
+
+  <table id="taula_material" class="body_taula">
+  <caption>
+    <!-- formulari per canviar el dia -->
+  </caption>
+
+  <thead>
+    <tr>
+      <th>ordre</th>
+      <th>Material</th>
+      <th>Stock</th>
+      <th>Esteril</th>
+      <th>No esteril</th>
+      <th>Sol·licitat</th>
+      <th>Rebut Est.</th>
+      <th>Entregat Est.</th>
+      <th>Observacions</th>
+    </tr>
+  </thead>
+    <tbody>
+    </tbody>
+  </table>
+
+  <br/>
+
+
+  <button id="botoGuardar">guardar</button><span id="estatGuardarDades">Dades guardades</span>
+
+</div>

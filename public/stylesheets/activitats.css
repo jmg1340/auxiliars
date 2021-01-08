@@ -1,0 +1,98 @@
+
+.ui-icon.red { background-image: url(../javascripts/jquery-ui-1.11.4/images/ui-icons_8c291d_256x240.png); }
+.ui-icon.green { background-image: url(../javascripts/jquery-ui-1.11.4/images/ui-icons-green.png); }
+
+
+.body_taula{
+	margin-left: 0%;
+	margin-top: 20px;
+	width: 100%;
+	table-layout: fixed;	
+}
+
+.body_taula input, select{
+	/*width: 95%;*/
+	background-color: #e1eefe;
+	width: 98%;
+}
+
+
+
+.body_taula th:first-child {   	/* data */
+	width: 4%;
+	text-align: center;
+}
+
+.body_taula th:nth-child(2) {	/* uh */
+	width: 3%;
+}
+
+
+.body_taula th:nth-child(3) {	/* torn */
+	width: 3%;
+}
+
+
+.body_taula th:nth-child(4) {	/* auxiliar */
+	width: 5%;
+}
+
+
+.body_taula th:nth-child(5) {	/* carro */
+	width: 3%;
+}
+
+
+.body_taula th:nth-child(6) {	/* banyeres */
+	width: 3%;
+}
+
+
+.body_taula th:nth-child(7) {	/* office */
+	width: 3%;
+}
+
+
+.body_taula th:nth-child(8) {	/* M. Farmacia */
+	width: 3%;
+}
+
+
+.body_taula th:nth-child(9) {	/* Z. Tecnica */
+	width: 3%;
+}
+
+
+.body_taula th:nth-child(10) {	/* Observacions */
+	width: 15%;
+}
+
+
+.body_taula th:last-child {   	/* boto afegir linea */
+	width: 5%;
+	text-align: center;
+	background-color: white;
+	border-color: transparent;
+}
+
+.body_taula td:last-child {   	/* boto afegir linea */
+	text-align: center;
+	background-color: white;
+	border-color: transparent;
+}
+
+
+#taula_llistaActivitats th:nth-child(11){
+	width: 1%;
+}
+
+
+#taula_llistaActivitats td{
+	text-align: center;
+}
+
+#taula_llistaActivitats td:nth-child(10){
+	text-align: left;
+
+}
+
